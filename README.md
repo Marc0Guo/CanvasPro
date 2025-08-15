@@ -25,7 +25,7 @@ Mine looks like:
 
 ```env
 API_URL=https://canvas.uw.edu
-API_KEY=10~6cw367VyneZXnLxR6wWZQRPeK9xm37auc3JhZkPJY7cmmf72aPKQZeZ6Z6VeYJTf
+API_KEY=1xxxxxxxxxxxxxxx
 ```
 
 1. Run the script:
